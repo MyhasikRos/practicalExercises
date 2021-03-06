@@ -1,0 +1,13 @@
+C:\Users\Katya\source\repos\WebPageReader\WebPageReader\bin\Debug\netcoreapp3.1\WebPageReader.exe
+C:\Users\Katya\source\repos\WebPageReader\WebPageReader\bin\Debug\netcoreapp3.1\WebPageReader.deps.json
+C:\Users\Katya\source\repos\WebPageReader\WebPageReader\bin\Debug\netcoreapp3.1\WebPageReader.runtimeconfig.json
+C:\Users\Katya\source\repos\WebPageReader\WebPageReader\bin\Debug\netcoreapp3.1\WebPageReader.runtimeconfig.dev.json
+C:\Users\Katya\source\repos\WebPageReader\WebPageReader\bin\Debug\netcoreapp3.1\WebPageReader.dll
+C:\Users\Katya\source\repos\WebPageReader\WebPageReader\bin\Debug\netcoreapp3.1\WebPageReader.pdb
+C:\Users\Katya\source\repos\WebPageReader\WebPageReader\obj\Debug\netcoreapp3.1\WebPageReader.csprojAssemblyReference.cache
+C:\Users\Katya\source\repos\WebPageReader\WebPageReader\obj\Debug\netcoreapp3.1\WebPageReader.AssemblyInfoInputs.cache
+C:\Users\Katya\source\repos\WebPageReader\WebPageReader\obj\Debug\netcoreapp3.1\WebPageReader.AssemblyInfo.cs
+C:\Users\Katya\source\repos\WebPageReader\WebPageReader\obj\Debug\netcoreapp3.1\WebPageReader.csproj.CoreCompileInputs.cache
+C:\Users\Katya\source\repos\WebPageReader\WebPageReader\obj\Debug\netcoreapp3.1\WebPageReader.dll
+C:\Users\Katya\source\repos\WebPageReader\WebPageReader\obj\Debug\netcoreapp3.1\WebPageReader.pdb
+C:\Users\Katya\source\repos\WebPageReader\WebPageReader\obj\Debug\netcoreapp3.1\WebPageReader.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Katya\MishaProga\practiki\BookGenerator\BookGenerator\obj\Debug\netcoreapp3.1\BookGenerator.csprojAssemblyReference.cache
+C:\Users\Katya\MishaProga\practiki\BookGenerator\BookGenerator\obj\Debug\netcoreapp3.1\BookGenerator.AssemblyInfoInputs.cache
+C:\Users\Katya\MishaProga\practiki\BookGenerator\BookGenerator\obj\Debug\netcoreapp3.1\BookGenerator.AssemblyInfo.cs
+C:\Users\Katya\MishaProga\practiki\BookGenerator\BookGenerator\obj\Debug\netcoreapp3.1\BookGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Katya\MishaProga\practiki\BookGenerator\BookGenerator\bin\Debug\netcoreapp3.1\BookGenerator.exe
+C:\Users\Katya\MishaProga\practiki\BookGenerator\BookGenerator\bin\Debug\netcoreapp3.1\BookGenerator.deps.json
+C:\Users\Katya\MishaProga\practiki\BookGenerator\BookGenerator\bin\Debug\netcoreapp3.1\BookGenerator.runtimeconfig.json
+C:\Users\Katya\MishaProga\practiki\BookGenerator\BookGenerator\bin\Debug\netcoreapp3.1\BookGenerator.runtimeconfig.dev.json
+C:\Users\Katya\MishaProga\practiki\BookGenerator\BookGenerator\bin\Debug\netcoreapp3.1\BookGenerator.dll
+C:\Users\Katya\MishaProga\practiki\BookGenerator\BookGenerator\bin\Debug\netcoreapp3.1\BookGenerator.pdb
+C:\Users\Katya\MishaProga\practiki\BookGenerator\BookGenerator\obj\Debug\netcoreapp3.1\BookGenerator.dll
+C:\Users\Katya\MishaProga\practiki\BookGenerator\BookGenerator\obj\Debug\netcoreapp3.1\BookGenerator.pdb
+C:\Users\Katya\MishaProga\practiki\BookGenerator\BookGenerator\obj\Debug\netcoreapp3.1\BookGenerator.genruntimeconfig.cache

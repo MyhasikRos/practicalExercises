@@ -1,0 +1,13 @@
+C:\Users\Katya\MishaProga\practiki\BookSKBDNotOpt\BookSKBDNotOpt\obj\Debug\netcoreapp3.1\BookSKBDNotOpt.csprojAssemblyReference.cache
+C:\Users\Katya\MishaProga\practiki\BookSKBDNotOpt\BookSKBDNotOpt\obj\Debug\netcoreapp3.1\BookSKBDNotOpt.AssemblyInfoInputs.cache
+C:\Users\Katya\MishaProga\practiki\BookSKBDNotOpt\BookSKBDNotOpt\obj\Debug\netcoreapp3.1\BookSKBDNotOpt.AssemblyInfo.cs
+C:\Users\Katya\MishaProga\practiki\BookSKBDNotOpt\BookSKBDNotOpt\obj\Debug\netcoreapp3.1\BookSKBDNotOpt.csproj.CoreCompileInputs.cache
+C:\Users\Katya\MishaProga\practiki\BookSKBDNotOpt\BookSKBDNotOpt\bin\Debug\netcoreapp3.1\BookSKBDNotOpt.exe
+C:\Users\Katya\MishaProga\practiki\BookSKBDNotOpt\BookSKBDNotOpt\bin\Debug\netcoreapp3.1\BookSKBDNotOpt.deps.json
+C:\Users\Katya\MishaProga\practiki\BookSKBDNotOpt\BookSKBDNotOpt\bin\Debug\netcoreapp3.1\BookSKBDNotOpt.runtimeconfig.json
+C:\Users\Katya\MishaProga\practiki\BookSKBDNotOpt\BookSKBDNotOpt\bin\Debug\netcoreapp3.1\BookSKBDNotOpt.runtimeconfig.dev.json
+C:\Users\Katya\MishaProga\practiki\BookSKBDNotOpt\BookSKBDNotOpt\bin\Debug\netcoreapp3.1\BookSKBDNotOpt.dll
+C:\Users\Katya\MishaProga\practiki\BookSKBDNotOpt\BookSKBDNotOpt\bin\Debug\netcoreapp3.1\BookSKBDNotOpt.pdb
+C:\Users\Katya\MishaProga\practiki\BookSKBDNotOpt\BookSKBDNotOpt\obj\Debug\netcoreapp3.1\BookSKBDNotOpt.dll
+C:\Users\Katya\MishaProga\practiki\BookSKBDNotOpt\BookSKBDNotOpt\obj\Debug\netcoreapp3.1\BookSKBDNotOpt.pdb
+C:\Users\Katya\MishaProga\practiki\BookSKBDNotOpt\BookSKBDNotOpt\obj\Debug\netcoreapp3.1\BookSKBDNotOpt.genruntimeconfig.cache

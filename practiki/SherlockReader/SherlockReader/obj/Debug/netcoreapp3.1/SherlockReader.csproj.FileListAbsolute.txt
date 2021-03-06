@@ -1,0 +1,13 @@
+C:\Users\Katya\source\repos\SherlockReader\SherlockReader\bin\Debug\netcoreapp3.1\SherlockReader.exe
+C:\Users\Katya\source\repos\SherlockReader\SherlockReader\bin\Debug\netcoreapp3.1\SherlockReader.deps.json
+C:\Users\Katya\source\repos\SherlockReader\SherlockReader\bin\Debug\netcoreapp3.1\SherlockReader.runtimeconfig.json
+C:\Users\Katya\source\repos\SherlockReader\SherlockReader\bin\Debug\netcoreapp3.1\SherlockReader.runtimeconfig.dev.json
+C:\Users\Katya\source\repos\SherlockReader\SherlockReader\bin\Debug\netcoreapp3.1\SherlockReader.dll
+C:\Users\Katya\source\repos\SherlockReader\SherlockReader\bin\Debug\netcoreapp3.1\SherlockReader.pdb
+C:\Users\Katya\source\repos\SherlockReader\SherlockReader\obj\Debug\netcoreapp3.1\SherlockReader.csprojAssemblyReference.cache
+C:\Users\Katya\source\repos\SherlockReader\SherlockReader\obj\Debug\netcoreapp3.1\SherlockReader.AssemblyInfoInputs.cache
+C:\Users\Katya\source\repos\SherlockReader\SherlockReader\obj\Debug\netcoreapp3.1\SherlockReader.AssemblyInfo.cs
+C:\Users\Katya\source\repos\SherlockReader\SherlockReader\obj\Debug\netcoreapp3.1\SherlockReader.csproj.CoreCompileInputs.cache
+C:\Users\Katya\source\repos\SherlockReader\SherlockReader\obj\Debug\netcoreapp3.1\SherlockReader.dll
+C:\Users\Katya\source\repos\SherlockReader\SherlockReader\obj\Debug\netcoreapp3.1\SherlockReader.pdb
+C:\Users\Katya\source\repos\SherlockReader\SherlockReader\obj\Debug\netcoreapp3.1\SherlockReader.genruntimeconfig.cache
