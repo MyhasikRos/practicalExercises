@@ -1,0 +1,13 @@
+C:\Users\Myhasik\projects\practicalExercises\practice 5\Xml\Xml\bin\Debug\netcoreapp3.1\Xml.exe
+C:\Users\Myhasik\projects\practicalExercises\practice 5\Xml\Xml\bin\Debug\netcoreapp3.1\Xml.deps.json
+C:\Users\Myhasik\projects\practicalExercises\practice 5\Xml\Xml\bin\Debug\netcoreapp3.1\Xml.runtimeconfig.json
+C:\Users\Myhasik\projects\practicalExercises\practice 5\Xml\Xml\bin\Debug\netcoreapp3.1\Xml.runtimeconfig.dev.json
+C:\Users\Myhasik\projects\practicalExercises\practice 5\Xml\Xml\bin\Debug\netcoreapp3.1\Xml.dll
+C:\Users\Myhasik\projects\practicalExercises\practice 5\Xml\Xml\bin\Debug\netcoreapp3.1\Xml.pdb
+C:\Users\Myhasik\projects\practicalExercises\practice 5\Xml\Xml\obj\Debug\netcoreapp3.1\Xml.csprojAssemblyReference.cache
+C:\Users\Myhasik\projects\practicalExercises\practice 5\Xml\Xml\obj\Debug\netcoreapp3.1\Xml.AssemblyInfoInputs.cache
+C:\Users\Myhasik\projects\practicalExercises\practice 5\Xml\Xml\obj\Debug\netcoreapp3.1\Xml.AssemblyInfo.cs
+C:\Users\Myhasik\projects\practicalExercises\practice 5\Xml\Xml\obj\Debug\netcoreapp3.1\Xml.csproj.CoreCompileInputs.cache
+C:\Users\Myhasik\projects\practicalExercises\practice 5\Xml\Xml\obj\Debug\netcoreapp3.1\Xml.dll
+C:\Users\Myhasik\projects\practicalExercises\practice 5\Xml\Xml\obj\Debug\netcoreapp3.1\Xml.pdb
+C:\Users\Myhasik\projects\practicalExercises\practice 5\Xml\Xml\obj\Debug\netcoreapp3.1\Xml.genruntimeconfig.cache

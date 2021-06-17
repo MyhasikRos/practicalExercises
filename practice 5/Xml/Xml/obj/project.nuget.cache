@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FLqYqkFnDGmmfWydZCMtp53HSMxH58gnx0GW/5NTQh7vmDkijt8e7VufaYO6uLlpiSf3rZhWTGVdDXxNhha+6g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Myhasik\\projects\\practicalExercises\\practice 5\\Xml\\Xml\\Xml.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Myhasik\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
